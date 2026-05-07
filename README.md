@@ -42,6 +42,7 @@ Read it in order once. After that, read it out of order forever.
 | **[Harnesses](harnesses/)** | Anatomy and idioms for Codex, Claude Code, and Pi — across app, CLI, and SDK. |
 | **[Patterns](patterns/)** | Reusable moves: context shaping, tool design, memory, sub-agents, eval loops, CI as harness, human-in-the-loop, security. |
 | **[Recipes](recipes/)** | Copy-pasteable workflows. Greenfield repos, legacy codebases, multi-agent crews, eval pipelines. |
+| **[Reference](reference/)** | The configuration manual. Every knob in `~/.claude/`, `~/.codex/`, `~/.pi/`. Schemas, paths, precedence. Dated. |
 | **[Anti-patterns](anti-patterns.md)** | The mistakes that waste tokens, time, and trust. |
 | **[Canon](canon/)** | An annotated reading list. The ~40 sources behind every claim in this book. |
 | **[Appendix](appendix/)** | Cheatsheets, config schemas, the primary-source index. |

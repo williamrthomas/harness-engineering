@@ -158,3 +158,5 @@ Both are good. They are not the same thing. This chapter is about pi.dev.
 - [pi-labs (withpi.ai)](https://withpi.ai) — different product, useful for evals.
 - See [Patterns](../patterns/) for sub-agent, eval, and tool-design techniques
   that you will, by Pi's design, build for yourself.
+- [reference/pi.md](../reference/pi.md) — the configuration manual: `~/.pi/agent/`, packages, extensions, themes, providers.
+- [reference/agents-md.md](../reference/agents-md.md) — cross-vendor file format.

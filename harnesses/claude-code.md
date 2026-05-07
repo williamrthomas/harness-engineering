@@ -206,3 +206,5 @@ to a trace file.
 - [Writing effective tools for AI agents](https://www.anthropic.com/engineering/writing-tools-for-agents) — Anthropic.
 - [Equipping agents for the real world with Agent Skills](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) — Anthropic.
 - [AGENTS.md spec](https://agents.md) — interoperable with `CLAUDE.md`.
+- [reference/claude-code.md](../reference/claude-code.md) — the configuration manual: every knob in `~/.claude/settings.json`, hooks, skills, sandbox.
+- [reference/agents-md.md](../reference/agents-md.md) — cross-vendor file format.

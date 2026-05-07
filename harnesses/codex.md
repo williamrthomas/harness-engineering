@@ -227,3 +227,5 @@ constraint left until production has nothing left to catch.
 - [AGENTS.md spec](https://agents.md) — Open standard, used by Codex and many others.
 - See [Patterns](../patterns/) for cross-cutting techniques (context shaping,
   tool design, sub-agents) that apply directly to Codex.
+- [reference/codex.md](../reference/codex.md) — the configuration manual: `config.toml`, profiles, sandboxing, approvals.
+- [reference/agents-md.md](../reference/agents-md.md) — cross-vendor file format.

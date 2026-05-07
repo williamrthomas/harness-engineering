@@ -12,6 +12,9 @@ your attention.
 
 Read them in any order. They are siblings, not rivals.
 
+For configuration mechanics (paths, schemas, every knob), see the
+[reference/](../reference/) directory.
+
 The differences are real but smaller than they look. Codex leans toward
 *long-running cloud agents with strict invariants*. Claude Code leans toward
 *persistent local pair-programming with first-class skills*. Pi leans toward
